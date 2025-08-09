@@ -1,5 +1,5 @@
 ---
-title: "Data Analytics Assisgnment 1"
+title: "Linear Regression and Bootstraping"
 author: "Sabbir Dewan"
 date: "`r Sys.Date()`"
 output:
@@ -493,6 +493,7 @@ Let's check the 95% confidence interval
 confint(airfare.model, level = 0.95)
 ```
 With 95% confidence,we can say the mean airfare decreases by between 0.0047 and 0.0136 units for each additional passenger.
+
 
 
 
